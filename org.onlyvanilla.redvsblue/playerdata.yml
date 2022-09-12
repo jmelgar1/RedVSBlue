@@ -1,0 +1,25 @@
+#PlayerData File
+#PlayerData
+   #ADMIN
+      #stats
+         #kill-glow-squids:
+         #mine-diamond-ore:
+         #kill-creepers:
+         #mine-emerald-ore:
+         #kill-enderdragons:
+         #kill-elder-guardians:
+         #mine-melons:
+         #kill-piglins:
+         #mine-netherrite:
+         #kill-witches:
+         #kill-wardens:
+         #mine-quartz-ore:
+         #mine-gold-ore:
+         #kill-slimes:
+         #kil-parrots:
+         #player-kills:         
+#Team Data
+TeamPoints:
+   red-team: 0
+   blue-team: 0
+#UserData
